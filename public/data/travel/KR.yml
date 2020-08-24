@@ -1,30 +1,28 @@
 ---
 sources:
   domestic:
-  - "[Domestic air carriers have resumed domestic flights](https://newsinfo.inquirer.net/1259719/south-koreas-air-carriers-resume-domestic-routes-for-spring-travel-season)."
-  - As of May 28, 2020, a series of social distancing measures have been re-imposed
+  - '[Domestic air carriers have resumed domestic flights](https://newsinfo.inquirer.net/1259719/south-koreas-air-carriers-resume-domestic-routes-for-spring-travel-season).'
+  - 'As of May 28, 2020, a series of social distancing measures have been re-imposed
     due to a new spike in COVID-19 cases. [These measures remain in place until further
-    notice.](https://www.channelnewsasia.com/news/asia/covid-19-south-korea-second-wave-45-new-cases-seoul-clusters-12861676)
-  - 'South Korea has limited indoor gatherings to a maximum of 50 people and [outdoor gatherings to a maximum of 100 people](https://www.straitstimes.com/asia/east-asia/s-korea-eyes-tighter-curbs-as-infections-spread-further). 
+    notice.](https://www.channelnewsasia.com/news/asia/covid-19-south-korea-second-wave-45-new-cases-seoul-clusters-12861676)'
+  - 'South Korea has limited indoor gatherings to a maximum of 50 people and [outdoor gatherings to a maximum of 100 people](https://www.straitstimes.com/asia/east-asia/s-korea-eyes-tighter-curbs-as-infections-spread-further).'
   - 'There will be [limits placed on events](https://www.straitstimes.com/asia/east-asia/s-korea-eyes-tighter-curbs-as-infections-spread-further) such as weddings, church services and sports games.'
   - 'In-person church meetings and entertainment venues such as night clubs, karaoke bars, and cybercafes are [prohibited](https://www.garda.com/crisis24/news-alerts/371641/south-korea-authorities-expand-stricter-social-distancing-restrictions-nationwide-august-23-update-28).'
   inbound:
-  - The Ministry of Health and Welfare issued a statement on Sunday, June 21, announcing
+  - The Ministry of Health and Welfare issued a statement on June 21, 2020, announcing
     they plan to limit the number of foreign nationals entering South Korea through
-    a [temporary restriction on visas and a ban on non-scheduled flights.](https://www.straitstimes.com/asia/east-asia/south-korea-limits-entry-for-foreigners-after-new-coronavirus-cases)
+    a [temporary restriction on visas and a ban on non-scheduled flights.](https://www.straitstimes.com/asia/east-asia/south-korea-limits-entry-for-foreigners-after-new-coronavirus-cases)'
   - 'A ban on travelers arriving from China''s Hubei province will be [lifted as of
     August 10, 2020.](http://www.xinhuanet.com/english/2020-08/07/c_139272545.htm)'
   outbound:
-  - Foreigners who are long term residents of the Republic of Korea (ROK) will be
-    required to obtain a [re-entry permit prior to departing for international travel](https://kr.usembassy.gov/022420-covid-19-information/).
+  - 'Foreigners who are long term residents of the Republic of Korea (ROK) will be
+    required to obtain a [re-entry permit prior to departing for international travel](https://kr.usembassy.gov/022420-covid-19-information/).'
   visa_quarantine:
-  - As of April 1, 2020, all inbound passengers are required to undergo [14-day mandatory
-    quarantine](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761451).
+  - 'As of April 1, 2020, all inbound passengers are required to undergo [14-day mandatory
+    quarantine](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761451).'
   - South Korea [suspends visa-free entry and visa waiver programs](https://www.visa.go.kr/openPage.do?MENU_ID=1050101) for countries with entry bans on South Koreans.
-  - As of April 13, 2020, foreigners who need to enter South Korea due to necessary
-    reasons (excluding tourism) will need to [personally apply for visas through the
-    Ministry of Foreign Affairs](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1).
-  - South Korea has implemented a [temporary suspension on short-term visas](https://www.visa.go.kr/openPage.do?MENU_ID=1050101).
+  - 'As of April 13, 2020, foreigners who need to enter South Korea due to necessary reasons (excluding tourism) will need to [personally apply for visas through the Ministry of Foreign Affairs](https://english.visitkorea.or.kr/enu/TRV/TV_ENG_2_1.jsp).'
+  - 'South Korea has implemented a [temporary suspension on short-term visas](https://www.visa.go.kr/openPage.do?MENU_ID=1050101).'
 travel:
   domestic: partial
   inbound: partial
