@@ -3,7 +3,7 @@ sources:
   domestic:
   - Hotels and mosques will reopen, and taxis are [permitted to operate](https://www.garda.com/crisis24/news-alerts/363061/kuwait-authorities-announce-third-phase-of-covid-19-reopening-to-commence-on-july-28-update-23).
   - The partial curfew has been shortened, and is [between 9 pm and 3 am (local time)
-    daily](https://www.argusmedia.com/en/news/2126567-kuwait-to-move-to-phase-three-of-reopening-this-week).
+    daily](https://www.argusmedia.com/en/news/2126567-kuwait-to-move-to-phase-three-of-reopening-this-week) but will be removed on August 30, 2020. 
   - Under the [fourth stage of the ease of restrictions](https://www.garda.com/crisis24/news-alerts/368866/kuwait-authorities-announce-next-stage-of-easing-of-restrictions-from-august-18-update-26),
     restaurants and cafes are permitted to reopen with social distancing measures
     in place, public transport can resume with social distancing rules in force, and
@@ -25,7 +25,7 @@ sources:
     and need to provide travel insurance covering the treatment of COVID-19.
 travel:
   domestic: partial
-  inbound: 'yes'
+  inbound: partial
   inbound_allowed:
   - AE
   - BH
@@ -47,4 +47,4 @@ travel:
   - AZ
   - PH
   - IN
-  outbound: 'yes'
+  outbound: partial
