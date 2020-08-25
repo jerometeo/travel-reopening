@@ -24,24 +24,24 @@ travel:
   domestic: partial
   inbound: partial
   inbound_allowed:
-  - AE
-  - BH
-  - OM
-  - LB
-  - QA
-  - JO
-  - EG
-  - BA
-  - LK
-  - PK
-  - ET
-  - GB
-  - TR
-  - IR
-  - NP
-  - CH
-  - DE
-  - AZ
-  - PH
-  - IN
+    - AE
+    - BH
+    - OM
+    - LB
+    - QA
+    - JO
+    - EG
+    - BA
+    - LK
+    - PK
+    - ET
+    - GB
+    - TR
+    - IR
+    - NP
+    - CH
+    - DE
+    - AZ
+    - PH
+    - IN
   outbound: partial
